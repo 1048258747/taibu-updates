@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  4,
-    "versionName":  "1.0.3",
+    "versionCode":  5,
+    "versionName":  "1.0.4",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "修复今日报告页面闪烁问题（无 AI 密钥时也能正常显示计算结果）；优化西方占星等工具表单，移除冗余的测算对象下拉框，新增“用我的信息排盘”一键功能与“为他人排盘”展开表单。"
+    "notes":  "今日报告增强：新增个人日主与五行展示，吉时改为具体钟点（如13:00-15:00）；AI 解读新增二次自校验，严格对照计算结果核查，防止编造与幻觉。"
 }
