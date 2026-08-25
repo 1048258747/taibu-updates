@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  3,
-    "versionName":  "1.0.2",
+    "versionCode":  4,
+    "versionName":  "1.0.3",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "新增今日报告：一键查看每日黄历计算结果（宜忌/方位/吉时/五行），并支持 AI 生成通俗解读（严格基于计算结果，不编造）。"
+    "notes":  "修复今日报告页面闪烁问题（无 AI 密钥时也能正常显示计算结果）；优化西方占星等工具表单，移除冗余的测算对象下拉框，新增“用我的信息排盘”一键功能与“为他人排盘”展开表单。"
 }
