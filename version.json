@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  5,
-    "versionName":  "1.0.4",
+    "versionCode":  6,
+    "versionName":  "1.0.5",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "今日报告增强：新增个人日主与五行展示，吉时改为具体钟点（如13:00-15:00）；AI 解读新增二次自校验，严格对照计算结果核查，防止编造与幻觉。"
+    "notes":  "新增数据备份：档案页支持一键导出/导入全部数据（档案、历史、密钥设置），防止清除浏览器数据导致丢失；同步 Web 版功能。"
 }
