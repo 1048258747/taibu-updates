@@ -1,6 +1,6 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.0.6",
+    "versionCode":  8,
+    "versionName":  "1.0.7",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "界面美化：排盘表单分组卷目序号（壹贰叁）、顶栏品牌印章、卡片错落入场动效、桌面端导航上移顶栏、多项视觉细节打磨。"
+    "notes":  "首页流程重构：老用户打开直达今日报告，新用户引导创建档案；「AI模型」页升级为「我的」中心（档案、历史、模型设置、数据备份）；修复有档案时塔罗、大六壬等模块仍显示出生信息的问题；新增手动检查更新与定时更新检查。"
 }
