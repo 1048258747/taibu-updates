@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  6,
-    "versionName":  "1.0.5",
+    "versionCode":  7,
+    "versionName":  "1.0.6",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "新增数据备份：档案页支持一键导出/导入全部数据（档案、历史、密钥设置），防止清除浏览器数据导致丢失；同步 Web 版功能。"
+    "notes":  "界面美化：排盘表单分组卷目序号（壹贰叁）、顶栏品牌印章、卡片错落入场动效、桌面端导航上移顶栏、多项视觉细节打磨。"
 }
