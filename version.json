@@ -1,6 +1,6 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.0.8",
+    "versionCode":  10,
+    "versionName":  "1.0.9",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "AI 解读输出规范化：工具解读与每日报告解读改为固定分节模板（每日报告含今日概要/宜忌行事/吉时方位/穿搭颜色/今日提醒/温馨提示，工具解读含排盘概览/关键解读/建议/需要注意/温馨提示），每次输出结构一致，可直接按标题定位；二次自校验同步保留小节标题。"
+    "notes":  "新增小米 MiMo 大模型（mimo-v2.5-pro），AI 解读模型选择更多样。"
 }
