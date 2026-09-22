@@ -1,6 +1,6 @@
 {
-    "versionCode":  11,
-    "versionName":  "1.0.10",
-    "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "今日解读改为流式实时输出，大幅降低等待；本地规则校验替代二次AI校验（更快、不编造）；熄屏/退出后重开不再强制跳回首页，生成中断会明确提示可重试。"
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "url": "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
+  "notes": "模型升级：DeepSeek 更新至 V4.1、新增小米 MiMo V2.6 全系列（Flash/Pro/超高速）、移除 MiniMax；设置页新增具体模型选择，保存后按所选模型调用。"
 }
