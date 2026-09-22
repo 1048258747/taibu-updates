@@ -1,6 +1,6 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.0.9",
+    "versionCode":  11,
+    "versionName":  "1.0.10",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "新增小米 MiMo 大模型（mimo-v2.5-pro），AI 解读模型选择更多样。"
+    "notes":  "今日解读改为流式实时输出，大幅降低等待；本地规则校验替代二次AI校验（更快、不编造）；熄屏/退出后重开不再强制跳回首页，生成中断会明确提示可重试。"
 }
