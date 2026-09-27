@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "url": "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-  "notes": "全新对话式主界面：打开就是对话，说一句话自动选工具、排盘并流式解读；原工具宫格改为「工具」页的次级入口列表，功能全部保留；底部导航调整为 对话 / 工具 / 我的。"
+    "versionCode":  14,
+    "versionName":  "1.0.13",
+    "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
+    "notes":  "修复对话无法正常回复的问题（上一版每次对话会提示 settings is not defined）；同步优化对话界面：消息气泡、头像、输入区固定，聊天更顺手。"
 }
