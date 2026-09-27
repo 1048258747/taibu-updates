@@ -1,6 +1,6 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.0.14",
+    "versionCode":  16,
+    "versionName":  "1.0.15",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "新增语音输入：对话输入框右侧点一下麦克风就能说话，自动转成文字，确认无误再发送；网页版和安卓 App 都支持。"
+    "notes":  "对话提速：压缩回灌给模型的历史（长对话下最多减少约九成长度，首字更快、更省钱）；长解读流式输出更顺不卡；等待时显示「正在理解你的问题 / 正在排盘 / 正在整理解读」。"
 }
