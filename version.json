@@ -1,6 +1,6 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.0.13",
+    "versionCode":  15,
+    "versionName":  "1.0.14",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "修复对话无法正常回复的问题（上一版每次对话会提示 settings is not defined）；同步优化对话界面：消息气泡、头像、输入区固定，聊天更顺手。"
+    "notes":  "新增语音输入：对话输入框右侧点一下麦克风就能说话，自动转成文字，确认无误再发送；网页版和安卓 App 都支持。"
 }
