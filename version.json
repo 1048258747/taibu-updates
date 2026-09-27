@@ -1,6 +1,6 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.0.16",
-    "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "对话解读加入本地核验：解读里提到的术数名词（十神/神煞/星曜/宫位等）会回查本次排盘结果，凡查不到出处的就地标注「未见于本次排盘结果」，帮你区分盘面事实与模型推论。核验在本地完成，不额外调用模型、不影响速度。"
+  "versionCode": 18,
+  "versionName": "1.0.17",
+  "url": "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
+  "notes": "对话升级：①新增多会话，每次打开都是全新对话，旧对话收进「历史」可随时点开接着聊；②推荐问句与排盘工具统一收进左侧「术」按钮，输入框更清爽；③解读更干净，不再出现「无法确定／未给出」这类无用内容，问运势、流年、大运会先算出真实数据再回答。"
 }
