@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.19",
+  "versionCode": 21,
+  "versionName": "1.0.20",
   "url": "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-  "notes": "语音输入修复：①系统语音识别失败时会显示具体原因，不再一律提示「识别失败」；②部分国产 ROM 的系统内置识别服务不可用时，自动改用系统语音输入界面，识别成功率明显提升；③修复个别机型授权麦克风后仍提示没有权限的问题。"
+  "notes": "界面优化：①修复顶部系统状态栏显示为灰色、与应用深色界面割裂的问题，状态栏与导航栏改为跟随主题；②「历史 / 新会话」栏改为吸顶，对话变长后不用再翻回顶部就能点击。"
 }
