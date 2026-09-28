@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.20",
+  "versionCode": 22,
+  "versionName": "1.0.21",
   "url": "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-  "notes": "界面优化：①修复顶部系统状态栏显示为灰色、与应用深色界面割裂的问题，状态栏与导航栏改为跟随主题；②「历史 / 新会话」栏改为吸顶，对话变长后不用再翻回顶部就能点击。"
+  "notes": "键盘修复：输入法弹起时，底部「对话 / 工具 / 我的」导航不再被一起顶到键盘上方，只让输入框贴着键盘上沿；键盘收起后恢复原样。"
 }
