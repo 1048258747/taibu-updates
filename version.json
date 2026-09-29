@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.21",
+  "versionCode": 23,
+  "versionName": "1.0.22",
   "url": "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-  "notes": "键盘修复：输入法弹起时，底部「对话 / 工具 / 我的」导航不再被一起顶到键盘上方，只让输入框贴着键盘上沿；键盘收起后恢复原样。"
+  "notes": "修复输入框被聊天记录顶出屏幕的问题：对话变长后，输入框不再沉到聊天记录末尾，始终固定在屏幕底部；顺带修正「术」弹层的定位（原先按整页高度计算）。"
 }
