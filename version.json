@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.22",
+  "versionCode": 24,
+  "versionName": "1.0.23",
   "url": "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-  "notes": "修复输入框被聊天记录顶出屏幕的问题：对话变长后，输入框不再沉到聊天记录末尾，始终固定在屏幕底部；顺带修正「术」弹层的定位（原先按整页高度计算）。"
+  "notes": "「我的」页档案改为摘要卡，点「编辑」才展开，层级更清爽；排盘表单出生时辰改为十二时辰下拉，出生年月日一行填完，可选字段收进「高级设置」。"
 }
