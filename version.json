@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.23",
-  "url": "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-  "notes": "「我的」页档案改为摘要卡，点「编辑」才展开，层级更清爽；排盘表单出生时辰改为十二时辰下拉，出生年月日一行填完，可选字段收进「高级设置」。"
+    "versionCode":  25,
+    "versionName":  "1.0.24",
+    "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
+    "notes":  "修复切换应用/熄屏时回答中断的问题：生成期间保持唤醒，熄屏或切后台不再断开；生成中切到工具页再返回也能接着显示；万一中断可一键「重新生成」。"
 }
