@@ -1,6 +1,6 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.0.24",
+    "versionCode":  26,
+    "versionName":  "1.0.25",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "修复切换应用/熄屏时回答中断的问题：生成期间保持唤醒，熄屏或切后台不再断开；生成中切到工具页再返回也能接着显示；万一中断可一键「重新生成」。"
+    "notes":  "新增「跟随系统」主题：默认跟随手机深浅色，系统切换时实时跟随；语音输入升级为全屏浮层，大麦克风加实时转写，识别失败就地提示，「取消 / 完成」更好用。"
 }
