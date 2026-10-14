@@ -1,6 +1,6 @@
 {
-    "versionCode":  27,
-    "versionName":  "1.0.26",
+    "versionCode":  28,
+    "versionName":  "1.0.27",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "修复熄屏/切后台导致回答中断：生成期间保持屏幕常亮、CPU 不休眠；被掐断的回答回到前台会自动补跑一次。同时优化长对话越用越慢的问题。"
+    "notes":  "语音输入改为「按住说话」：按住麦克风开始、松手结束，说话中间的停顿不再被当成说完，长句可以一次说完；语音界面同时上移到屏幕中上位置，转写文字不再被手指挡住。"
 }
