@@ -1,6 +1,7 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.0.28",
+    "versionCode":  30,
+    "versionName":  "1.0.29",
     "url":  "https://github.com/1048258747/taibu-updates/releases/latest/download/taibu-paipan.apk",
-    "notes":  "语音输入改为本地离线识别：按住麦克风说话、松手结束，中间停顿不再断句，整句一次填入输入框；识别模型内置在安装包内，不联网、不上传录音。安装包因此增至约 48MB，首次使用语音会准备一次本地模型（约十秒）。"
+    "sha256":  "dc64e84094f908d4de3cff54b08743d6d214d1c654cdc887a7cc5981e52708e9",
+    "notes":  "新增国内更新通道：更新与下载优先走自有服务器，国内网络更稳定；安装包下载后增加 SHA-256 校验。国内用户如收不到更新，请打开安装页手动安装一次，之后可在应用内自动更新。"
 }
